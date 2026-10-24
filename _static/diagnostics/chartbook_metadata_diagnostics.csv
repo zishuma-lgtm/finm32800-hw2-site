@@ -1,0 +1,6 @@
+Name,Metadata Complete,Object Type,Identifier,Pipeline,Missing Fields,Page Link
+HW 2: The Yield Curve and the Policy Path,True,pipeline,hw2,hw2,,../index.html
+CRSP Treasury Consolidated,True,dataframe,crsp_treasury_consolidated,hw2,,./dataframes/hw2/crsp_treasury_consolidated.html
+Federal Reserve Yield Curve,True,dataframe,fed_yield_curve,hw2,,./dataframes/hw2/fed_yield_curve.html
+30-Day Fed Funds Futures,True,dataframe,fed_funds_futures,hw2,,./dataframes/hw2/fed_funds_futures.html
+FedWatch: Next FOMC Meeting Probabilities,False,chart,fedwatch_latest_forecast,hw2,"observation_period, release_lag, release_timing",./charts/hw2.fedwatch_latest_forecast.html
